@@ -1,0 +1,40 @@
+单元格
+<table>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <tr>
+          <td></td
+      </tr>
+      <tr>
+          <td></td
+      </tr>
+      <tr>
+           <td></td
+      </tr>
+      <tr>
+           <td></td
+      </tr>
+      <tr>
+           <td colspan="2"></td
+      </tr>
+</table>
+
+ <!-- 表格的跨行和跨列：colspan  rowspan -->
+
+单选按钮
+<label><input type="radio" name="sex" value="man" checked="checked">男</label>
+<label><input type="radio" name="sex" value="woman">女</label>
+下拉菜单
+<select>
+          <option value="">北京</option>
+          <option value="">上海</option>
+          <option value="">深圳</option>
+          <option value="">杭州</option>
+          <option value="" selected="true">成都</option>
+</select>
+多选按钮
+<label><input type="checkbox" name="">运动</label>
+<label><input type="checkbox" name="">艺术</label>
+<label><input type="checkbox" name="">科学</label>
